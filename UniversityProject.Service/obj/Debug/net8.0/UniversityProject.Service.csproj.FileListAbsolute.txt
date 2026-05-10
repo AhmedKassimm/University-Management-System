@@ -1,0 +1,17 @@
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\bin\Debug\net8.0\UniversityProject.Service.deps.json
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\bin\Debug\net8.0\UniversityProject.Service.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\bin\Debug\net8.0\UniversityProject.Service.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\bin\Debug\net8.0\UniversityProject.Domin.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\bin\Debug\net8.0\UniversityProject.Infrastructure.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\bin\Debug\net8.0\UniversityProject.Infrastructure.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\bin\Debug\net8.0\UniversityProject.Domin.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.csproj.AssemblyReference.cache
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.AssemblyInfoInputs.cache
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.AssemblyInfo.cs
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\Universi.5F5D53D9.Up2Date
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\refint\UniversityProject.Service.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\ref\UniversityProject.Service.dll

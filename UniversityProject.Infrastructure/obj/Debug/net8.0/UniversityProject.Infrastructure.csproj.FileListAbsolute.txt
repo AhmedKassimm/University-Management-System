@@ -1,0 +1,15 @@
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\bin\Debug\net8.0\UniversityProject.Infrastructure.deps.json
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\bin\Debug\net8.0\UniversityProject.Infrastructure.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\bin\Debug\net8.0\UniversityProject.Infrastructure.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\bin\Debug\net8.0\UniversityProject.Domin.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\bin\Debug\net8.0\UniversityProject.Domin.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.AssemblyInfo.cs
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\Universi.E8BD928B.Up2Date
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\refint\UniversityProject.Infrastructure.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\ref\UniversityProject.Infrastructure.dll

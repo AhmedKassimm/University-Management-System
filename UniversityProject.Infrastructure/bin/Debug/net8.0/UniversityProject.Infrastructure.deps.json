@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UniversityProject.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UniversityProject.Domin": "1.0.0"
+        },
+        "runtime": {
+          "UniversityProject.Infrastructure.dll": {}
+        }
+      },
+      "UniversityProject.Domin/1.0.0": {
+        "runtime": {
+          "UniversityProject.Domin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniversityProject.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniversityProject.Domin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

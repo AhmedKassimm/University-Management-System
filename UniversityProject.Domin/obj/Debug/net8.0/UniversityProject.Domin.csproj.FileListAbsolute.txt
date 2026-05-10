@@ -1,0 +1,11 @@
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\bin\Debug\net8.0\UniversityProject.Domin.deps.json
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\bin\Debug\net8.0\UniversityProject.Domin.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\bin\Debug\net8.0\UniversityProject.Domin.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.AssemblyInfoInputs.cache
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.AssemblyInfo.cs
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.csproj.CoreCompileInputs.cache
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\refint\UniversityProject.Domin.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.pdb
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\ref\UniversityProject.Domin.dll

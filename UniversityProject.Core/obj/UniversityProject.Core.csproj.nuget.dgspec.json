@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Core\\UniversityProject.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Core\\UniversityProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Core\\UniversityProject.Core.csproj",
+        "projectName": "UniversityProject.Core",
+        "projectPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Core\\UniversityProject.Core.csproj",
+        "packagesPath": "C:\\Users\\lap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Service\\UniversityProject.Service.csproj": {
+                "projectPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Service\\UniversityProject.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Domin\\UniversityProject.Domin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Domin\\UniversityProject.Domin.csproj",
+        "projectName": "UniversityProject.Domin",
+        "projectPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Domin\\UniversityProject.Domin.csproj",
+        "packagesPath": "C:\\Users\\lap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Domin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Infrastructure\\UniversityProject.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Infrastructure\\UniversityProject.Infrastructure.csproj",
+        "projectName": "UniversityProject.Infrastructure",
+        "projectPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Infrastructure\\UniversityProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Domin\\UniversityProject.Domin.csproj": {
+                "projectPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Domin\\UniversityProject.Domin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Service\\UniversityProject.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Service\\UniversityProject.Service.csproj",
+        "projectName": "UniversityProject.Service",
+        "projectPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Service\\UniversityProject.Service.csproj",
+        "packagesPath": "C:\\Users\\lap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Infrastructure\\UniversityProject.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lap\\source\\Career\\UniversityProject\\UniversityProject.Infrastructure\\UniversityProject.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
