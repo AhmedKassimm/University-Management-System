@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace UniversityProject.Domin.Entities
 {
     public class StudentSubject
     {
+        [Key]
         public int StuSubId { get; set; }
         public int StudentId  { get; set; }
         public int SubjectId { get; set; }

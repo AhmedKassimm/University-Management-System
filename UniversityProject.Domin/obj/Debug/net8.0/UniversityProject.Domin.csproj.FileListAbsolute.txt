@@ -9,3 +9,5 @@ C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\n
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\refint\UniversityProject.Domin.dll
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.pdb
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\ref\UniversityProject.Domin.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.sourcelink.json
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Domin\obj\Debug\net8.0\UniversityProject.Domin.csproj.AssemblyReference.cache

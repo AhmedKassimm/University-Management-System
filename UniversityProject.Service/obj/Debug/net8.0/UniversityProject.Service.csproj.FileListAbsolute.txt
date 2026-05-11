@@ -15,3 +15,4 @@ C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\refint\UniversityProject.Service.dll
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.pdb
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\ref\UniversityProject.Service.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Service\obj\Debug\net8.0\UniversityProject.Service.sourcelink.json

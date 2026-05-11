@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,7 +9,7 @@ namespace UniversityProject.Domin.Entities
 {
     public class Student
     {
-
+        [Key]
         public int StuId { get; set; }
         public string Name { get; set; } = default!;
         public string Address { get; set; } = default!;

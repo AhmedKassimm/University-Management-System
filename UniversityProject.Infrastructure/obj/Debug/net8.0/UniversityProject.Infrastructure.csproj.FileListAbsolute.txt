@@ -13,3 +13,4 @@ C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\ob
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\refint\UniversityProject.Infrastructure.dll
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.pdb
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\ref\UniversityProject.Infrastructure.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Infrastructure\obj\Debug\net8.0\UniversityProject.Infrastructure.sourcelink.json

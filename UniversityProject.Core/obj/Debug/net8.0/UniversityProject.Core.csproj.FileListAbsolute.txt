@@ -17,3 +17,4 @@ C:\Users\lap\source\Career\UniversityProject\UniversityProject.Core\obj\Debug\ne
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Core\obj\Debug\net8.0\refint\UniversityProject.Core.dll
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Core\obj\Debug\net8.0\UniversityProject.Core.pdb
 C:\Users\lap\source\Career\UniversityProject\UniversityProject.Core\obj\Debug\net8.0\ref\UniversityProject.Core.dll
+C:\Users\lap\source\Career\UniversityProject\UniversityProject.Core\obj\Debug\net8.0\UniversityProject.Core.sourcelink.json

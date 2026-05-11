@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace UniversityProject.Domin.Entities
 {
     public class DepartmentSubject
     {
-        public int  DeptSubId { get; set; }
+        [Key]
+        public int DeptSubId { get; set; }
         public int  DepartmentId { get; set; }
         public int  SubjectId { get; set; }
         [ForeignKey("DepartmentId")]
