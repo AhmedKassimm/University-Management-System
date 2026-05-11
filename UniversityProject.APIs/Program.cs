@@ -2,8 +2,9 @@
 using Microsoft.EntityFrameworkCore;
 using UniversityProject.APIs.Middleware;
 using UniversityProject.Domin.Abstraction;
+using UniversityProject.Infrastructure;
 using UniversityProject.Infrastructure.Data;
-using UniversityProject.Infrastructure.Repostiories;
+using UniversityProject.Service;
 
 namespace UniversityProject.APIs
 {
@@ -22,7 +23,7 @@ namespace UniversityProject.APIs
                 option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
 
-            builder.Services.ApplyDependencies();  
+            builder.Services.ApplyInfrastructureDependencies().ApplySerivecsDependencies();
             var app = builder.Build();
            
 
